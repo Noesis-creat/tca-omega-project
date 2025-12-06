@@ -1,0 +1,4 @@
+⚖️ License and Pledge
+Legal License:** This project is licensed under the **Apache License 2.0**. This means you are legally free to use, modify, distribute, and **commercialize** this project without any legal concerns.  
+[View Apache License 2.0 Full Text](LICENSE)
+Ethical Pledge (OATH):** The author, Noesis, has issued an ethical pledge expressing the project's spirit of dedication to humanity, not capital, and opposing purely commercial gain. Please refer to the [OATH Ethical Pledge](OATH.md) to understand the project's core vision.
