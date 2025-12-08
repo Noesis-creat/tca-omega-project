@@ -1,14 +1,21 @@
-# tca-omega-project
-Anonymous open-source research · 48-layer · 2048-dim  · 262k context on a single 4090  Real measured: 91 token/s @ 128k context · 8.9 GB KV cache · 84%+ electricity saved vs 70B baselines    If TCA-Ω is saving your GPU 84%+ electricity, buy the researcher a coffee ☕  (No weights for sale · No funding · No company · Pure voluntary support)。
-# TCA-Ω Lossless Perfect — Civilizational Edition
-**Execute the last 0.001% of inference electricity cost.**
+# TCA-Ω Noesis — Lossless Perfect · Green AI
 
-Anonymous open-source research · 48-layer · 2048-dim · 32-expert MoE · 262k context on a single 4090
-Real measured: 91 token/s @ 128k context · 8.9 GB KV cache · 84%+ electricity saved vs 70B baselines
+> **84 % less electricity · 262 k context · 18,500+ Token/kWh · vLLM native**
 
-If TCA-Ω is saving your GPU 84%+ electricity, buy the researcher a coffee ☕
-(No weights for sale · No funding · No company · Pure voluntary support)
+We are not releasing a model.  
+We are launching a **civilizational self-rescue**.
 
+### A Green AI Initiative to the Guardians of Data Centers  
+Winter 2025 – the year humanity finally woke up to AI power consumption
+
+→ Read the complete 58-point manifesto now: [**GREEN_AI_INITIATIVE.md**](GREEN_AI_INITIATIVE.md)
+
+### Shared Production Edition v1.0 — Data Center Ready  
+→ https://github.com/Noesis-creat/tca-omega-production
+
+**One-line production deploy:**
+```bash
+kubectl apply -f https://raw.githubusercontent.com/Noesis-creat/tca-omega-production/main/deployment/k8s/
 ### Zero-Friction Donation (Minimal Action Principle)
 
 | Chain | Feature | Philosophy | Click or Scan |
