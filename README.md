@@ -31,7 +31,7 @@ All surplus rolled into next-generation architecture.
 TCA-Ω will **forever** remain:
 - Open-source
 - Free
-- Unfunded
+- **Sustained solely by anonymous voluntary contributions**
 
 Any attempt to close-source, commercialize, or sell this work to corporations is betrayal of humanity.
 
